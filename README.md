@@ -3,17 +3,15 @@
 Hi! 👋 I'm Simon, but shateq in the Internet. I'm interested in photography, visual effects and programming. 
 I'm somewhat experienced in Java, JavaScript and GoLang, but programming will stay as a hobby.
 
-💥 To be honest, I'm a huge fan of [Redis](https://redis.io) and [Minecraft](https://minecraft.net).
+💥 To be honest, I'm a huge fan of [Redis](https://redis.io) and [Fabric Project](https://fabricmc.net/).
 
 > Have a nice day everyone!
 - https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 <div align="center">
     <h3>Some technology that I use.</h3>
-    <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="assets/idea.png" height="64" width="64"/></a> &nbsp;
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="assets/code.png" height="64" width="64"/></a> &nbsp;
-    <a href="https://www.blender.org/" target="_blank"><img src="assets/blender.png" height="64" width="64"/></a> &nbsp;
-    <a href="https://nodejs.org/" target="_blank"><img src="assets/node.png" height="64" width="64"/></a> &nbsp;
+    <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="assets/idea.png" height="64" width="64"/></a>&nbsp;
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="assets/code.png" height="64" width="64"/></a>&nbsp;
 </div>
 
 ---
