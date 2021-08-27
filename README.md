@@ -3,7 +3,7 @@
 Hi! 👋 I'm Simon, but shateq in the Internet. I'm interested in photography, visual effects and programming. 
 I'm somewhat experienced in **Java**, **JavaScript** and **Go**, but programming will stay as a hobby. Currently getting around *Julia*.
 
-💥 To be honest, I'm a huge fan of [Redis](https://redis.io) and [Fabric Project](https://fabricmc.net/).
+To be honest, I'm a huge fan of [Redis](https://redis.io) and [Fabric Project](https://fabricmc.net/). 🔥
 
 > Have a nice day everyone!
 - https://www.youtube.com/watch?v=dQw4w9WgXcQ
@@ -18,4 +18,3 @@ I'm somewhat experienced in **Java**, **JavaScript** and **Go**, but programming
 # 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shateq&layout=compact&langs_count=10)](https://github.com/shateq/)
 ---
-<a href="https://www.youtube.com/watch?v=jkX7vVNUlBo"><img width="100%" src="assets/worlds.jpg"></a>
