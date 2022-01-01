@@ -1,16 +1,9 @@
-<a href="https://www.youtube.com/watch?v=114rxHa0qzo"><img width="100%" src="assets/eggshot.jpg"/></a>
----
-Hi! 👋 I'm Simon, but shateq in the Internet. I'm interested in visual effects and programming. 
-I'm somewhat experienced in **Java**, **JavaScript** and **Go**. Currently getting around *Svelte*.
-To be honest, I'm a true fan of [Redis](https://redis.io) and [Fabric Project](https://fabricmc.net/). 🔥
-
-- 👀 **https://github.com/USERNAME.png**
+Hello there! 👋 I think that i can use Java, Go and JS. <br>
+Additionally, I'm a real enthusiast of <a href="https://redis.io/">Redis</a> and <a href="https://fabricmc.net/">FabricMC</a>. 
 
 <div align="center">
-    <h3>Some technology that I use.</h3>
-    <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="assets/idea.png" height="64" width="64"/></a>&nbsp;
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="assets/code.png" height="64" width="64"/></a>&nbsp;
+    <h3>Some technology.</h3>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="idea.png" height="64" width="64"/></a>&nbsp;
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="code.png" height="64" width="64"/></a>&nbsp;
 </div>
-
----
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shateq&layout=compact&langs_count=10)](https://github.com/shateq/)
+<!-- **https://github.com/USERNAME.png** -->
