@@ -1,14 +1,16 @@
-Hello there! 👋 I think that I can use Java, Kotlin and Go.<br>
+Hello there! 👋 I use Java, [Kotlin](https://kotlinlang.org/), Go and JS to solve my problems.<br>
 
-- Kotlin! You have to check it out! https://kotlinlang.org/
+Am an enthusiast of [Redis](https://redis.io/) and [Deno](https://deno.land/).
 
-As well, I'm a real enthusiast of <a href="https://redis.io/">Redis</a> and <a href="https://fabricmc.net/">FabricMC</a>. 
-
-<!-- The thing below is a neat trick that works on github -->
 <!-- https://github.com/USERNAME.png -->
-<div align="center">
-    <h3>Some technology.</h3>
-    <a href="https://www.jetbrains.com/idea/"><img src="idea.png" height="40" /></a>
-    <a href="https://code.visualstudio.com/"><img src="code.png" height="40" /></a>
+<div>
+    <h3>Most Common Video Resolutions.</h3>
+    
+| Left | Right |
+|----|----|
+| 352x240p | 480x360p |
+| 858x480p | 1280x720p |
+| 1920x1080p | 3860x2160p |
+<!--     <a href="https://www.jetbrains.com/idea/"><img src="idea.png" height="36" /></a> -->
+<!--     <a href="https://code.visualstudio.com/"><img src="code.png" height="36" /></a> -->
 </div>
-
