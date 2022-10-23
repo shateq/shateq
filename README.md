@@ -15,4 +15,4 @@ Am an enthusiast of [Redis](https://redis.io/) and [Deno](https://deno.land/).
 <!--     <a href="https://code.visualstudio.com/"><img src="code.png" height="36" /></a> -->
 </div>
 
-> I'll be moving my JVM packages into *shateq.<project>.<technology>*
+> I'll be moving my JVM packages into *shateq.\<project\>.\<technology\>*
