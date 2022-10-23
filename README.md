@@ -15,4 +15,4 @@ Am an enthusiast of [Redis](https://redis.io/) and [Deno](https://deno.land/).
 <!--     <a href="https://code.visualstudio.com/"><img src="code.png" height="36" /></a> -->
 </div>
 
-> __shateq/kotlin-console__ moved to **[this Gist](https://gist.github.com/shateq/466b90de3788ff5b40167ea12817d151)**
+> I'll be moving my JVM packages into *shateq.<project>.<technology>*
