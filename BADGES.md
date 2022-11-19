@@ -1,6 +1,11 @@
 # Credits
 > https://github.com/intergrav/devins-badges
 
+## Available on deno.land
+
+- https://deno.land/x
+- https://shield.deno.dev/
+
 ## Support on Ko-fi
 
 <a href="https://ko-fi.com/username">
