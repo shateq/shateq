@@ -2,9 +2,7 @@
 
 Hello there! 👋 I use Java, [Kotlin](https://kotlinlang.org/) and [Deno](https://deno.land/) to solve my problems, nevertheless I'm an enthusiast of [Redis](https://redis.io/).<br>
 
-## I do soak languages!
-
-🇵🇱 N 🇦🇺 C1 🇧🇾 B1+ 🇮🇹 B1 🇫🇮 A1 🇪🇸 pre-A1 🇦🇪 pre-A1
+## For myself only: REMEMBER FOOL 1.18+ JAVA 17
 
 ### Minecraft Mods
 
